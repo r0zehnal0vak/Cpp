@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Zprostředkující adresář (Debug\) obsahuje soubory sdílené z jiného projektu (2017_BitmapHraTemplate.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  2017_BitmapHraTemplate.vcxproj -> C:\Users\KRoze\Desktop\PROGRAMOVÁNÍ PROJEKT\C++\X-wing\Debug\Smooth Criminal.exe
